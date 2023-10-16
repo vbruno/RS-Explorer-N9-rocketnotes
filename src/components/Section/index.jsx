@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 
-import { Container } from './style'
+import { Container } from './styles'
 
 export function Section({ title, children }) {
   return (
